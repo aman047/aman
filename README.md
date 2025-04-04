@@ -46,5 +46,21 @@ Hi, I'm **Aman Jain**, a final-year B.Tech student passionate about technology, 
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect or reach out via:
+
+- Email: [atj0509@gmail.com](mailto:atj0509@gmail.com)
+- GitHub: [@aman047](https://github.com/aman047)
+- LinkedIn: [Aman Jain](https://www.linkedin.com/in/aman-jain-24b0aa1b2/)
+
+---
+
+## ⭐️ If you like this project...
+
+Give it a ⭐️ to show support and help more people discover it!
+
 
